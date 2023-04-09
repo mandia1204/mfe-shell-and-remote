@@ -14,7 +14,7 @@ import { APP_ROUTES } from './app.routes';
   ],
   declarations: [
     HomeComponent,
-    AppComponent,
+    AppComponent
   ],
   providers: [],
   bootstrap: [
